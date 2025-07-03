@@ -1,0 +1,34 @@
+body {
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    text-indent: 10px;
+}
+
+.row {
+    width: 100%;
+    margin-left: 0;
+}
+
+.col {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.add {
+  color: green;
+}
+
+.del {
+  text-decoration: line-through;
+}
+

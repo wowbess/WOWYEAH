@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5289" lry="7115" xml:id="facs_40">
+         <graphic url="0040_040_18v.jpeg" width="5289px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SFODIVEKTUDWJLXSUOAQQUSM&amp;fileType=view" width="5289px" height="7115px"/>
+         <zone points="4608,276 4976,276 4976,547 4608,547" rendition="TextRegion" xml:id="facs_40_r" subtype="page-number">
+            <zone points="4625,257 4834,257 4834,515 4625,515" rendition="Line" xml:id="facs_40_l_1474"/>
+         </zone>
+         <zone points="212,1178 5106,1178 5106,2861 212,2861" rendition="TextRegion" xml:id="facs_40_r_1489" subtype="paragraph">
+            <zone points="374,1017 3155,1017 3155,1397 374,1397" rendition="Line" xml:id="facs_40_tr_1_tl_1"/>
+            <zone points="349,1323 4723,1323 4723,1715 349,1715" rendition="Line" xml:id="facs_40_tr_1_tl_2"/>
+            <zone points="92,1654 5017,1654 5017,2034 92,2034" rendition="Line" xml:id="facs_40_tr_1_tl_3"/>
+            <zone points="123,1942 4956,1942 4956,2297 123,2297" rendition="Line" xml:id="facs_40_tr_1_tl_4"/>
+            <zone points="147,2224 5073,2224 5073,2567 147,2567" rendition="Line" xml:id="facs_40_tr_1_tl_5"/>
+            <zone points="172,2518 1538,2518 1538,2947 172,2947" rendition="Line" xml:id="facs_40_tr_1_tl_6"/>
+         </zone>
+         <zone points="254,2924 5171,2924 5171,4582 254,4582" rendition="TextRegion" xml:id="facs_40_r_1498" subtype="paragraph">
+            <zone points="962,2794 4993,2794 4993,3222 962,3222" rendition="Line" xml:id="facs_40_tr_1_tl_7"/>
+            <zone points="227,3112 4870,3112 4870,3498 227,3498" rendition="Line" xml:id="facs_40_tr_1_tl_8"/>
+            <zone points="239,3449 5011,3449 5011,3817 239,3817" rendition="Line" xml:id="facs_40_tr_1_tl_9"/>
+            <zone points="221,3762 5115,3762 5115,4123 221,4123" rendition="Line" xml:id="facs_40_tr_1_tl_10"/>
+            <zone points="202,4043 5042,4043 5042,4399 202,4399" rendition="Line" xml:id="facs_40_tr_1_tl_11"/>
+            <zone points="202,4374 1758,4374 1758,4625 202,4625" rendition="Line" xml:id="facs_40_tr_1_tl_12"/>
+         </zone>
+         <zone points="238,4508 5106,4508 5106,5777 238,5777" rendition="TextRegion" xml:id="facs_40_r_1509" subtype="paragraph">
+            <zone points="1023,4625 2898,4625 2898,4962 1023,4962" rendition="Line" xml:id="facs_40_l_1533"/>
+            <zone points="2432,4466 3866,4466 3866,4772 2432,4772" rendition="Line" xml:id="facs_40_tr_1_tl_13"/>
+            <zone points="2879,4607 4975,4607 4975,4993 2879,4993" rendition="Line" xml:id="facs_40_l_1534"/>
+            <zone points="227,4864 4325,4864 4325,5287 227,5287" rendition="Line" xml:id="facs_40_tr_1_tl_15"/>
+            <zone points="1090,5213 4926,5213 4926,5581 1090,5581" rendition="Line" xml:id="facs_40_tr_1_tl_16"/>
+            <zone points="2604,5477 2812,5477 2812,5704 2604,5704" rendition="Line" xml:id="facs_40_tr_1_tl_17"/>
+            <zone points="251,5489 3988,5489 3988,5875 251,5875" rendition="Line" xml:id="facs_40_tr_1_tl_18"/>
+         </zone>
+         <zone points="245,5784 4894,5784 4894,6818 245,6818" rendition="TextRegion" xml:id="facs_40_r_1522" subtype="paragraph">
+            <zone points="1146,5771 4307,5771 4307,6175 1146,6175" rendition="Line" xml:id="facs_40_tr_1_tl_20"/>
+            <zone points="4064,5944 4675,5944 4675,5978 4064,5978" rendition="Line" xml:id="facs_40_l"/>
+            <zone points="1170,6096 4589,6096 4589,6469 1170,6469" rendition="Line" xml:id="facs_40_tr_1_tl_21"/>
+            <zone points="245,6463 830,6463 830,6770 245,6770" rendition="Line" xml:id="facs_40_l_1576"/>
+            <zone points="441,6139 1152,6139 1152,6531 441,6531" rendition="Line" xml:id="facs_40_tr_1_tl_22"/>
+            <zone points="830,6414 4748,6414 4748,6825 830,6825" rendition="Line" xml:id="facs_40_l_1577"/>
+         </zone>
+         <zone points="136,1094 5183,1094 5183,6833 136,6833" rendition="TextRegion" xml:id="facs_40_tr_1">
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_40" n="40" xml:id="img_0040"/><fw type="page-number" facs="#facs_40_r" place="top">
+               <l facs="#facs_40_l_1474" n="N001">17</l></fw>
+            <p facs="#facs_40_r_1489">
+               <l facs="#facs_40_tr_1_tl_1" n="N001"><speech>"You mean to Norwood"</speech> said <rs type="person">Lestrade</rs>.</l>
+               <l facs="#facs_40_tr_1_tl_2" n="N002"><speech>"Oh yes, no doubt that is what I must have meant"</speech> said <rs type="person">Holmes</rs></l>
+               <l facs="#facs_40_tr_1_tl_3" n="N003">with his enigmatical smile. <rs type="person">Lestrade</rs> had learned by more experiences</l>
+               <l facs="#facs_40_tr_1_tl_4" n="N004">than he would care to ackowledge that that razor like brain could cut</l>
+               <l facs="#facs_40_tr_1_tl_5" n="N005">through what which was impenetrable to him. I saw him look curiously</l>
+               <l facs="#facs_40_tr_1_tl_6" n="N006">at my companion.</l></p>
+            <p facs="#facs_40_r_1498">
+               <l facs="#facs_40_tr_1_tl_7" n="N001"><speech continued="true">"I think I should like to have a word with you presently.</speech></l>
+               <l facs="#facs_40_tr_1_tl_8" n="N002"><speech continued="true"><rs type="person">Mr Sherlock Holmes</rs>" </speech>said he. <speech continued="true">"Now, <rs type="person">Mr McFarlane</rs>, two of my</speech></l>
+               <l facs="#facs_40_tr_1_tl_9" n="N003"><speech continued="true">constables are at the door and there is a four-wheeler waiting"</speech>. The</l>
+               <l facs="#facs_40_tr_1_tl_10" n="N004">wretched young man arose and with a last beseeching glance at us</l>
+               <l facs="#facs_40_tr_1_tl_11" n="N005">he walked from the room. The officers conducted him to the cab, but</l>
+               <l facs="#facs_40_tr_1_tl_12" n="N006"><rs type="person">Lestrade</rs> remained.</l></p>
+            <p facs="#facs_40_r_1509">
+               <l facs="#facs_40_l_1533" n="N001"><rs type="person">Holmes</rs> had picked up the <add place="supralinear" facs="#facs_40_tr_1_tl_13" n="N002">pages which formed the</add><span facs="#facs_40_l_1534" n="N003"> rough draught of the will and</span></l>
+               <l facs="#facs_40_tr_1_tl_15" n="N004">was looking at <del><hi style="text-decoration: line-through;">it</hi></del> <add place="above">them</add> with the keenest interest upon his face.</l>
+               <l facs="#facs_40_tr_1_tl_16" n="N005"><speech continued="true">"There are some points about that document, <rs type="person">Lestrade</rs>,</speech></l>
+               <l facs="#facs_40_tr_1_tl_18" n="N007"><speech continued="true">are there not?"</speech> said he, quishing <blackening><hi style="text-decoration: line-through;">it</hi></blackening> <add place="above">them</add> over <del>to the official</del>.</l></p>
+            <p facs="#facs_40_r_1522">
+               <l facs="#facs_40_tr_1_tl_20" n="N001">The official looked at <blackening><hi style="text-decoration: line-through;">it</hi></blackening> <add place="above">them</add> with a puzzled <del><hi style="text-decoration: line-through;">face</hi></del> <add facs="#facs_40_l" n="N002" place="above">expression</add>.</l>
+               <l facs="#facs_40_tr_1_tl_21" n="N003"><speech continued="true">"I can read the first few lines, and these in the</speech></l>
+               <l facs="#facs_40_l_1576" n="N004"><speech continued="true">middle</speech> <add place="above" facs="#facs_40_tr_1_tl_22" n="N005"><speech continued="true">of the second page</speech></add><speech continued="true"> and one or two at the end. Those are as clear as prints"</speech></l>
+            
+               </p></div>
+      </body>
+   </text>
+</TEI>
